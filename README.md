@@ -11,7 +11,7 @@ I'm a passionate front-end web developer with a love for creating beautiful and 
 You can reach me at [pingkichakma018288@gmail.com](mailto:pingkichakma018288@gmail.com) — don’t hesitate to contact me for collaboration purposes.
 
 ## 😄 Pronouns
-They/Them | Frontend Developer | Specializing in React and Tailwind CSS | Passionate about intuitive design
+They/Them | Frontend Developer | Specializing in React and Tailwind CSS3 | Passionate about intuitive design
 
 ## ⚡ Fun Fact
 I’m a huge fan of retro video games and have a collection of classic consoles. In my free time, I enjoy designing pixel art inspired by old-school games. I also love experimenting with new front-end technologies, often combining my passions for gaming and development.
